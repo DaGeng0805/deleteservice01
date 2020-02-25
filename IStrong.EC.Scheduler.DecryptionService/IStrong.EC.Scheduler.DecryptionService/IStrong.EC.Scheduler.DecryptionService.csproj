@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>7.1</LangVersion>
+    <DebugType>full</DebugType>
+    <Version>1.0.4</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Config\jobs.json" />
+    <None Remove="Config\updateTime.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="IStrong.EC.DAO" Version="2.1.0" />
+    <PackageReference Include="IStrong.EC.DAO.Mapping.Xml" Version="2.1.0" />
+    <PackageReference Include="IStrong.EC.TaskManager" Version="2.1.0" />
+    <PackageReference Include="IStrong.EC.TaskManager.Abstractions" Version="2.1.0" />
+    <PackageReference Include="IStrong.EC.TaskManager.JobStorage.DB" Version="2.1.0" />
+    <PackageReference Include="IStrong.EC.TaskManager.JobStorage.Json" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="2.1.2" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Config\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Compile Remove=".template.config\**" />
+    <EmbeddedResource Remove=".template.config\**" />
+    <None Remove=".template.config\**" />
+    <Content Include="Config\jobs.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Config\db.provider.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="install-windows-proxy.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+</Project>

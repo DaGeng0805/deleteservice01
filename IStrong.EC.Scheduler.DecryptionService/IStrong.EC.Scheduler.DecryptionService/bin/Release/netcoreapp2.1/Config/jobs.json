@@ -1,0 +1,12 @@
+﻿[
+  {
+    "id":"Job1",  //服务编号，唯一
+    "type": "IStrong.EC.Scheduler.DecryptionService.Job1", //服务类型
+    "desc": "备注", //备注
+    "enabled": true,  //是否可用，默认为true
+    "interval": "1h", //未设置单位，则默认为5秒
+    "data": {
+      "configPath": "E:\\开发目录\\33浙江省\\03温州\\数据解密服务\\4_系统源码\\2_源代码\\IStrong.EC.Scheduler.DecryptionService\\IStrong.EC.Scheduler.DecryptionService\\Config\\updateTime.txt"
+    }
+  }
+]

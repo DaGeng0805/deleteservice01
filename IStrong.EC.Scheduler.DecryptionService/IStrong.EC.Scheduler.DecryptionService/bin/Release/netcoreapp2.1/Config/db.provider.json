@@ -1,0 +1,34 @@
+{
+  "DbProviderFactories": [
+    {
+      "name": "SqlClient Data Provider",
+      "invariant": "System.Data.SqlClient",
+      "description": ".Net Framework Data Provider for SqlServer",
+      "type": "System.Data.SqlClient.SqlClientFactory, System.Data.SqlClient"
+    },
+    {
+      "name": "MySQL Data Provider",
+      "invariant": "MySql.Data.MySqlClient",
+      "description": ".Net Framework Data Provider for MySql",
+      "type": "MySql.Data.MySqlClient.MySqlClientFactory, MySql.Data.MySqlClient"
+    },
+    {
+      "name": "SQLite Data Provider",
+      "invariant": "Microsoft.Data.Sqlite",
+      "description": ".Net Framework Data Provider for SQLite",
+      "type": "Microsoft.Data.Sqlite.SqliteFactory, Microsoft.Data.Sqlite"
+    },
+    {
+      "name": "Npgsql Data Provider",
+      "invariant": "Npgsql",
+      "description": ".Net Framework Data Provider for PostgreSql",
+      "type": "Npgsql.NpgsqlFactory, Npgsql"
+    },
+    {
+      "name": "ODP.NET, Managed Driver",
+      "invariant": "Oracle.ManagedDataAccess.Client",
+      "description": "Oracle Data Provider for .NET, Managed Driver",
+      "type": "Oracle.ManagedDataAccess.Client.OracleClientFactory, Oracle.ManagedDataAccess"
+    }
+  ]
+}

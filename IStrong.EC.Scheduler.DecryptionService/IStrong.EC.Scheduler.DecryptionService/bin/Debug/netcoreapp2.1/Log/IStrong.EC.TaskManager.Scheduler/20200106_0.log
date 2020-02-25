@@ -1,0 +1,208 @@
+[2020-01-06 09:02:40:672069] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:02:40:710876] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:02:40:712268] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:02:41:132267] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:02:43:488366] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:02:43:504689] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:02:43:505762] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:02:43:950107] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:02:43:951185] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:02:43:953263] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:02:43:960858] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:02:43:993209] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:05:42:348596] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:05:42:352484] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:05:42:353328] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:05:42:512148] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:05:43:092812] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:05:43:094890] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:05:43:095560] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:05:43:221366] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:05:43:222420] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:05:43:224561] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:05:43:232166] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:05:43:256649] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:07:17:310835] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:07:17:315761] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:07:17:316499] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:07:17:416512] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:07:18:077745] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:07:18:082432] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:07:18:083273] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:07:18:221540] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:07:18:222164] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:07:18:223936] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:07:18:230757] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:07:18:250758] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:08:11:318010] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:08:11:321598] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:08:11:322316] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:08:11:425611] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:08:12:166246] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:08:12:169074] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:08:12:169990] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:08:12:307556] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:08:12:308234] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:08:12:310025] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:08:12:316923] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:08:12:336771] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:08:28:235487] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:08:28:247040] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:08:28:248486] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:08:28:413133] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:08:29:208244] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:08:29:210976] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:08:29:211727] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:08:29:343828] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:08:29:344467] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:08:29:346256] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:08:29:352817] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:08:29:372773] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:08:44:979452] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:08:44:986088] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:08:44:987611] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:08:45:108814] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:08:45:861138] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:08:45:864140] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:08:45:865099] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:08:46:009795] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:08:46:010437] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:08:46:012200] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:08:46:018983] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:08:46:037894] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:09:29:736895] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:09:29:743263] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:09:29:744683] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:09:29:851534] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:09:30:652433] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:09:30:655712] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:09:30:656464] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:09:30:800077] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:09:30:800719] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:09:30:802461] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:09:30:812959] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:09:30:832901] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:16:32:951677] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:16:32:958527] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:16:32:960208] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:16:33:086297] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:16:33:786696] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:16:33:790230] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:16:33:790941] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:16:33:944924] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:16:33:945851] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:16:33:948172] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:16:33:955213] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:16:33:973687] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:37:10:417115] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:37:10:421956] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:37:10:422728] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:37:10:565774] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:37:11:493809] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:37:11:499855] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:37:11:501409] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:37:11:637451] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:37:11:638088] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:37:11:639898] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:37:11:646580] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:37:11:665310] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:39:07:083175] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:39:07:089538] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:39:07:091295] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:39:07:260604] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:39:07:986361] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:39:07:989341] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:39:07:990041] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:39:08:118865] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:39:08:119710] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:39:08:121972] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:39:08:129387] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:39:08:149152] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:39:23:408691] info 0 IStrong.EC.TaskManager.Scheduler 接收到终止信号：Stopping
+[2020-01-06 09:39:25:488227] info 0 IStrong.EC.TaskManager.Scheduler Stopped
+[2020-01-06 09:39:31:332925] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:39:31:338201] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:39:31:339317] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:39:31:470750] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:39:32:185289] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:39:32:187439] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:39:32:188172] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:39:32:336484] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:39:32:337113] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:39:32:338923] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:39:32:346012] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:39:32:366239] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:39:43:943614] info 0 IStrong.EC.TaskManager.Scheduler 接收到终止信号：Stopping
+[2020-01-06 09:39:45:977428] info 0 IStrong.EC.TaskManager.Scheduler Stopped
+[2020-01-06 09:40:26:890670] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:40:26:896403] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:40:26:897869] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:40:27:006402] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:40:27:801183] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:40:27:804065] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:40:27:804953] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:40:27:953200] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:40:27:953968] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:40:27:955860] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:40:27:964554] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:40:27:990138] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:43:58:898675] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:43:58:902939] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:43:58:903669] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:43:59:036929] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:43:59:832178] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:43:59:834977] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:43:59:835728] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:44:00:004403] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:44:00:006065] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:44:00:009923] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:44:00:022480] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:44:00:048319] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:44:36:867447] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:44:36:887693] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:44:36:889916] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:44:37:020279] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:44:37:624070] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:44:37:626332] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:44:37:627065] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:44:37:764962] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:44:37:765942] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:44:37:767913] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:44:37:778347] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:44:37:799308] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:46:39:946560] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:46:39:951847] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:46:39:953012] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:46:40:064910] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:46:40:778099] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:46:40:782015] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:46:40:782982] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:46:40:918980] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:46:40:919720] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:46:40:921532] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:46:40:927929] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:46:40:946850] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 09:47:21:256542] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 09:47:21:262007] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 09:47:21:262977] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 09:47:21:386648] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 09:47:22:182677] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 09:47:22:185872] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 09:47:22:186814] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 09:47:22:354472] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 09:47:22:355285] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 09:47:22:357800] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 09:47:22:366528] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 09:47:22:397308] info 0 IStrong.EC.TaskManager.Scheduler Started
+[2020-01-06 10:01:07:731063] info 0 IStrong.EC.TaskManager.Scheduler 操作系统版本：Microsoft Windows NT 6.2.9200.0
+[2020-01-06 10:01:07:736242] info 0 IStrong.EC.TaskManager.Scheduler 是否64操作系统：是
+[2020-01-06 10:01:07:737020] info 0 IStrong.EC.TaskManager.Scheduler 是否64位处理器：是
+[2020-01-06 10:01:07:803663] dbug 0 IStrong.EC.TaskManager.Scheduler 加载job类型：IStrong.EC.Scheduler.DecryptionService.Job1，程序集：IStrong.EC.Scheduler.DecryptionService, Version=1.0.4.0, Culture=neutral, PublicKeyToken=null
+[2020-01-06 10:01:08:374221] info 0 IStrong.EC.TaskManager.Scheduler StartAsync.....
+[2020-01-06 10:01:08:376587] info 0 IStrong.EC.TaskManager.Scheduler 加载任务配置文件jobs.json，文件路径：Config\jobs.json
+[2020-01-06 10:01:08:377291] info 0 IStrong.EC.TaskManager.Scheduler 序列化jobs.json文件内容到对象集合
+[2020-01-06 10:01:08:528940] info 0 IStrong.EC.TaskManager.Scheduler 序列化完成，开始创建Job
+[2020-01-06 10:01:08:529621] info 0 IStrong.EC.TaskManager.Scheduler -------------------------------------------
+[2020-01-06 10:01:08:531405] info 0 IStrong.EC.TaskManager.Scheduler 创建任务：group=default id=Job1 name=未设置 desc=备注 enabled=True
+[2020-01-06 10:01:08:539767] info 0 IStrong.EC.TaskManager.Scheduler 定时轮询触发器创建完成
+[2020-01-06 10:01:08:559593] info 0 IStrong.EC.TaskManager.Scheduler Started

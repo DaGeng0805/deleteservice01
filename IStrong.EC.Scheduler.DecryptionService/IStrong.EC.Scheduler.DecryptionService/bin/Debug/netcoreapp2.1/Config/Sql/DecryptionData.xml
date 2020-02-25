@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://tools.istrongcloud.com/schema/mappings.xsd">
+  
+  <mapping id ='s_decryDataTFLSLJ' title='获取要解密的数据' remark='获取要解密的数据' cache="false" author='zj5' tables='F02_TFLSLJ'>
+    <sql connName='Conn'>
+      <![CDATA[
+      SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFLSLJ WHERE updatetime >= @updatetime
+      ]]>
+    </sql>
+  </mapping>
+  
+  <mapping id ='s_decryDataTFYBLJ' title='获取要解密的数据' remark='获取要解密的数据' cache="false" author='zj5' tables='F02_TFYBLJ'>
+    <sql connName='Conn'>
+      <![CDATA[
+      SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFYBLJ WHERE updatetime >= @updatetime
+      ]]>
+    </sql>
+  </mapping>
+
+
+</mappings>
+

@@ -1,0 +1,30 @@
+﻿{
+  "ec": {
+    "logging": {
+      "minimumLevel": "trace"
+    },
+    "dao": {
+      "scriptDirectory": "Sql",
+      "queryCache": true,
+      "sqlTrace": false,
+      "defaultConnName": "Conn"
+    }
+  },
+  "taskManager": {
+    "serviceName": "DecryptionService",
+    "displayName": "经纬度解密入库服务",
+    "description": "DecryptionService",
+    "threadCount": 10
+  },
+  "database": {
+    "Conn": {
+      "providerName": "System.Data.SqlClient",
+      "read": [
+        "Data Source=119.3.31.236;User ID=strong;password=strong2017.;Initial Catalog=U_STRONG_TYPHOON"
+      ],
+      "write": [
+        "Data Source=119.3.31.236;User ID=strong;password=strong2017.;Initial Catalog=U_STRONG_TYPHOON"
+      ]
+    }
+  }
+}

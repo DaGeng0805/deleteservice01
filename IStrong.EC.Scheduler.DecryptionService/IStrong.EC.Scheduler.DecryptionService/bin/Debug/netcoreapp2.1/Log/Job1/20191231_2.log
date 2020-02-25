@@ -1,0 +1,44 @@
+[2019-12-31 09:41:51:208489] trac 0 Job1 traceId=Job1 time=2019-12-31 09:41:31.208419 category=sql elapsed=9965ms
+[2019-12-31 09:41:51:276895] trac 0 Job1 traceId=Job1 time=2019-12-31 09:41:51.276308 category=sql sql=SELECT updatetime FROM F02_TFYBLJ ORDER BY updatetime DESC parameters={} commandSource=Sql
+[2019-12-31 09:41:51:540488] trac 0 Job1 traceId=Job1 time=2019-12-31 09:41:51.276308 category=sql elapsed=261ms
+[2019-12-31 09:42:44:612020] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:44.610194 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFLSLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:11:31.883} commandSource=Mapping
+[2019-12-31 09:42:45:056463] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:44.610194 category=sql elapsed=441ms
+[2019-12-31 09:42:45:095449] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.095134 category=sql sql= UPDATE F02_TFLSLJ SET WD_T = 14.6,JD_T = 114.4 WHERE RowId = 67357  parameters={} commandSource=Sql
+[2019-12-31 09:42:45:131204] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.095134 category=sql elapsed=32ms
+[2019-12-31 09:42:45:162013] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.161533 category=sql sql=SELECT updatetime FROM F02_TFLSLJ ORDER BY updatetime DESC parameters={} commandSource=Sql
+[2019-12-31 09:42:45:399150] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.161533 category=sql elapsed=234ms
+[2019-12-31 09:42:45:403253] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.402958 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFYBLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:02:48.093} commandSource=Mapping
+[2019-12-31 09:42:45:445037] trac 0 Job1 traceId=Job1 time=2019-12-31 09:42:45.402958 category=sql elapsed=38ms
+[2019-12-31 09:43:56:550218] trac 0 Job1 traceId=Job1 time=2019-12-31 09:43:56.548471 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFLSLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:11:31.883} commandSource=Mapping
+[2019-12-31 09:43:57:025733] trac 0 Job1 traceId=Job1 time=2019-12-31 09:43:56.548471 category=sql elapsed=472ms
+[2019-12-31 09:44:03:311479] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.311158 category=sql sql= UPDATE F02_TFLSLJ SET WD_T = 14.6,JD_T = 114.4 WHERE RowId = 67357  parameters={} commandSource=Sql
+[2019-12-31 09:44:03:345402] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.311158 category=sql elapsed=31ms
+[2019-12-31 09:44:03:375213] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.374697 category=sql sql=SELECT updatetime FROM F02_TFLSLJ ORDER BY updatetime DESC parameters={} commandSource=Sql
+[2019-12-31 09:44:03:588795] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.374697 category=sql elapsed=210ms
+[2019-12-31 09:44:03:594115] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.593756 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFYBLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:02:48.093} commandSource=Mapping
+[2019-12-31 09:44:03:639182] trac 0 Job1 traceId=Job1 time=2019-12-31 09:44:03.593756 category=sql elapsed=42ms
+[2019-12-31 09:51:27:458667] trac 0 Job1 traceId=Job1 time=2019-12-31 09:51:27.456912 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFLSLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 1124:11:31.883} commandSource=Mapping
+[2019-12-31 09:52:36:495687] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:36.493697 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFLSLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:11:31.883} commandSource=Mapping
+[2019-12-31 09:52:36:991529] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:36.493697 category=sql elapsed=493ms
+[2019-12-31 09:52:38:460297] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.459450 category=sql sql= UPDATE F02_TFLSLJ SET WD_T = 14.6,JD_T = 114.4 WHERE RowId = 67357  parameters={} commandSource=Sql
+[2019-12-31 09:52:38:511108] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.459450 category=sql elapsed=45ms
+[2019-12-31 09:52:38:552285] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.551442 category=sql sql=SELECT updatetime FROM F02_TFLSLJ ORDER BY updatetime DESC parameters={} commandSource=Sql
+[2019-12-31 09:52:38:771167] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.551442 category=sql elapsed=209ms
+[2019-12-31 09:52:38:778209] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.777563 category=sql sql=SELECT RowId,WD,JD,updatetime,ID,WD_T,JD_T FROM F02_TFYBLJ WHERE updatetime >= @updatetime  parameters={updatetime=2019-12-28 11:02:48.093} commandSource=Mapping
+[2019-12-31 09:52:38:826620] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:38.777563 category=sql elapsed=43ms
+[2019-12-31 09:52:39:409158] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:39.408484 category=sql sql= UPDATE F02_TFYBLJ SET WD_T = 14.7,JD_T = 111.4 WHERE RowId = 176832  UPDATE F02_TFYBLJ SET WD_T = 14.5,JD_T = 111.2 WHERE RowId = 176833  UPDATE F02_TFYBLJ SET WD_T = 14.6,JD_T = 110.8 WHERE RowId = 176834  UPDATE F02_TFYBLJ SET WD_T = 14.5,JD_T = 111.7 WHERE RowId = 176835  UPDATE F02_TFYBLJ SET WD_T = 14.6,JD_T = 109.8 WHERE RowId = 176836  UPDATE F02_TFYBLJ SET WD_T = 15,JD_T = 110.4 WHERE RowId = 176837  parameters={} commandSource=Sql
+[2019-12-31 09:52:39:442025] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:39.408484 category=sql elapsed=26ms
+[2019-12-31 09:52:39:474134] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:39.473550 category=sql sql=SELECT updatetime FROM F02_TFYBLJ ORDER BY updatetime DESC parameters={} commandSource=Sql
+[2019-12-31 09:52:39:739995] trac 0 Job1 traceId=Job1 time=2019-12-31 09:52:39.473550 category=sql elapsed=262ms
+[2019-12-31 10:15:02:136552] info 0 Job1 *************************解密服务开始*************************
+[2019-12-31 10:15:24:002838] info 0 Job1 解析F02_TFLSLJ数据开始
+[2019-12-31 10:15:37:109248] info 0 Job1 解析F02_TFLSLJ数据结束，此次解析到时间2019-12-28 11:11:31.883
+[2019-12-31 10:15:37:110461] info 0 Job1 解析F02_TFYBLJ数据开始
+[2019-12-31 10:15:49:858795] info 0 Job1 解析F02_TFYBLJ数据结束，此次解析到时间2019-12-28 23:02:48.093
+[2019-12-31 10:15:49:860608] info 0 Job1 *************************解密服务结束*************************
+[2019-12-31 10:16:16:841029] info 0 Job1 *************************解密服务开始*************************
+[2019-12-31 10:16:40:829114] info 0 Job1 解析F02_TFLSLJ数据开始
+[2019-12-31 10:16:41:594147] info 0 Job1 解析F02_TFLSLJ数据结束，此次解析到时间2019-12-28 11:11:31.883
+[2019-12-31 10:16:41:595321] info 0 Job1 解析F02_TFYBLJ数据开始
+[2019-12-31 10:16:41:946618] info 0 Job1 解析F02_TFYBLJ数据结束，此次解析到时间2019-12-28 23:02:48.093
+[2019-12-31 10:16:41:948542] info 0 Job1 *************************解密服务结束*************************
